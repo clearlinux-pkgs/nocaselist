@@ -1,5 +1,5 @@
 PKG_NAME := nocaselist
-URL = https://files.pythonhosted.org/packages/6e/58/973533dff30a49cad105ac936cb652d7c3c835a8d300ca184578bd3ff35c/nocaselist-1.0.1.tar.gz
+URL = https://files.pythonhosted.org/packages/4c/d6/2c10acc87deb50704615ccd0cf59afbadaa5b767c828d8a00abe6ceda012/nocaselist-1.0.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
