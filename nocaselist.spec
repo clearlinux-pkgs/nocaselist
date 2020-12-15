@@ -4,7 +4,7 @@
 #
 Name     : nocaselist
 Version  : 1.0.3
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/bb/b1/1bd5eba96cf017ab892390292ee866dcaf77da0bf8058d9c6fe5af520d83/nocaselist-1.0.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bb/b1/1bd5eba96cf017ab892390292ee866dcaf77da0bf8058d9c6fe5af520d83/nocaselist-1.0.3.tar.gz
 Summary  : A case-insensitive list for Python
